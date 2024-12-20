@@ -1,0 +1,16 @@
+{
+    "setting": {
+        "urlCheck": true,
+        "es6": true,
+        "postcss": true,
+        "minified": true,
+        "newFeature": true,
+        "autoCompile": true,
+        "compileHotReLoad": true,
+        "nativeCompile": true
+    },
+    "appid": "tt2a765ccbb57cc5ab02",
+    "projectname": "合并abc",
+    "douyinProjectType": "native",
+    "cloudfunctionRoot": "cloudfunctions/"
+}
